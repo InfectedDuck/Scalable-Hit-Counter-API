@@ -101,3 +101,7 @@ The application is CI/CD-ready, with the following features that can be integrat
 * **Automated Testing:** `unittest` framework can be integrated into CI pipelines to run tests on each push.
 * **Docker Image Build:** Automatic builds and deployment through DockerHub.
 * **Code Quality Checks:** Integrate `flake8` for linting and `pytest` for advanced testing during the CI process.
+
+## License
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details. <br>
+This project is made as a part of IBM Course.
